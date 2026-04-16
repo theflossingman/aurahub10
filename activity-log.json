@@ -1,0 +1,114 @@
+[
+  {
+    "user": "Max",
+    "target": "Gigi",
+    "action": "removed aura from",
+    "timestamp": "4/14/2026, 7:47:06 PM",
+    "type": "decrement"
+  },
+  {
+    "user": "Max",
+    "target": "Gigi",
+    "action": "gave aura to",
+    "timestamp": "4/14/2026, 7:47:01 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Dezi",
+    "target": "Gigi",
+    "action": "removed aura from",
+    "timestamp": "4/14/2026, 7:46:41 PM",
+    "type": "decrement"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:34:37 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:34:37 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:34:37 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Sevi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:33:26 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Sevi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:33:26 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Sevi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:33:26 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "removed aura from",
+    "timestamp": "4/12/2026, 12:32:01 PM",
+    "type": "decrement"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "removed aura from",
+    "timestamp": "4/12/2026, 12:32:01 PM",
+    "type": "decrement"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "removed aura from",
+    "timestamp": "4/12/2026, 12:32:01 PM",
+    "type": "decrement"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:31:58 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Dezi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:31:57 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Gigi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:31:54 PM",
+    "type": "increment"
+  },
+  {
+    "user": "Max",
+    "target": "Gigi",
+    "action": "gave aura to",
+    "timestamp": "4/12/2026, 12:31:54 PM",
+    "type": "increment"
+  }
+]
